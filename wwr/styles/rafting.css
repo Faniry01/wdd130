@@ -202,9 +202,6 @@ figure {
     margin-top: 0.5rem;
     font-weight: bold;
 }
-.contact-form {
-    margin: 1rem;
-}
 .contact-form label[for="name"],
 .contact-form label[for="email"] {
     display: inline-block;
